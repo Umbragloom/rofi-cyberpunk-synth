@@ -14,3 +14,7 @@ Example:
 <img src="https://github.com/Umbragloom/rofi-cyberpunk-synth/assets/Cyberpunk-synth.png"/>
 </p>
 
+Let me know if you believe there are any changes that you think would 
+benifit the colorscheme.
+
+
