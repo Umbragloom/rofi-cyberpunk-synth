@@ -10,14 +10,8 @@ A Rofi theme based on the cyberpunk color pattern I enjoy.
 
 Example: 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Umbragloom/rofi-cyberpunk-synth/assets/cyberpunk-synth.png"/>
+<img src="https://raw.githubusercontent.com/Umbragloom/rofi-cyberpunk-synth/main/assets/cyberpunk-synth.png"/
 </p>
 
 Let me know if you believe there are any changes that you think would 
 benifit the colorscheme.
-
-
-=======
-1. Copy repo.
-2. In your rofi config (config.rasi) add the following: 
-
