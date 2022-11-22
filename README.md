@@ -22,4 +22,7 @@ benifit the colorscheme.
 =======
 1. Copy repo.
 2. In your rofi config (config.rasi) add the following: 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
