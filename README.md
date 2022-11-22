@@ -3,6 +3,7 @@ A Rofi theme based on the cyberpunk color pattern I enjoy.
 
 # How to use the theme
 
+<<<<<<< Updated upstream
 ## Manual inport
 1. Copy repo to your machine.
 2. In your Rofi config ```(config.rasi)``` add the following line: ```@import "location/of/this/repo/cyberpunk-sytnh.rasi" ```
@@ -18,3 +19,7 @@ Let me know if you believe there are any changes that you think would
 benifit the colorscheme.
 
 
+=======
+1. Copy repo.
+2. In your rofi config (config.rasi) add the following: 
+>>>>>>> Stashed changes
