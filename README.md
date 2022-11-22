@@ -3,5 +3,14 @@ A Rofi theme based on the cyberpunk color pattern I enjoy.
 
 # How to use the theme
 
-1. Copy repo.
-2. in rofi
+## Manual inport
+1. Copy repo to your machine.
+2. In your Rofi config ```(config.rasi)``` add the following line: ```@import "location/of/this/repo/cyberpunk-sytnh.rasi" ```
+3. Reload Rofi. 
+4. Enjoy!
+
+Example: 
+<p align="center">
+<img src="https://github.com/Umbragloom/rofi-cyberpunk-synth/assets/Cyberpunk-synth.png"/>
+</p>
+
